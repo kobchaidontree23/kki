@@ -94,7 +94,7 @@ DATABASES = {
          'USER': 'fsempjctajtgmd',
          'PASSWORD': 'fe909087a12b57e676752e5ecf74cb2cbaf10729a37da983e29ee93de4fc65e0',
          'HOST': 'ec2-54-145-185-178.compute-1.amazonaws.com', 
-         'PORT': '543'
+         'PORT': '5432'
      }
 }
 # Password validation
